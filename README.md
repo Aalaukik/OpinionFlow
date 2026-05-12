@@ -161,7 +161,7 @@ PDFGenerator  →  downloadable report
 
 ### Option A — No API Keys (works immediately)
 ```bash
-git clone https://github.com/YOUR_USERNAME/opinionflow.git
+git clone https://github.com/Aalaukik/opinionflow.git
 cd opinionflow
 pip install -r requirements.txt
 streamlit run app.py
